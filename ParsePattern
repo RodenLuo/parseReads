@@ -6,6 +6,7 @@ Created on Fri Nov 14 10:38:07 2014
 Modified Apr 21, 2015
 
 @author: Chi Zhang
+@email: roy.chizhang@gmail.com
 
 This script would read in fastq files. The fastq file should already have been trimmed by quality filtering.
 Afterwards it'll match each read to the pattern defined by the input file defined by -s flag, in the format of:
